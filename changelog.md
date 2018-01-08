@@ -22,7 +22,7 @@ up to 952a97dbc99a54bd86141b7a57625e748941a937 + 0.4.1
 
 [zshcompsys-Standard-Styles]: http://zsh.sourceforge.net/Doc/Release/Completion-System.html#Standard-Styles
 [zshcompsys-Standard-Styles-format]: http://zsh.sourceforge.net/Doc/Release/Completion-System.html#index-format_002c-completion-style
-  
+
 
 
 # Changes in version 0.4.1
